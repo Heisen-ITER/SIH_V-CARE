@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+pandas
+matplotlib
+reportlab
+seaborn
+opencv-python
+tensorflow
+mediapipe
+numpy
+python-socketio
+python-multipart
